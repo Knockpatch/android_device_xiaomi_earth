@@ -8,9 +8,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-
+### Correctly To Fixs
 ### Changelogs
-
 - [X] Correct screen/recovery size
 - [X] Working Touch, screen
 - [X] Backup to internal/microSD
