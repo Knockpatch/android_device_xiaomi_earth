@@ -9,7 +9,7 @@
 #
 ```
 
-### Blocking checks
+### Changelogs
 
 - [X] Correct screen/recovery size
 - [X] Working Touch, screen
@@ -17,9 +17,6 @@
 - [X] Restore from internal/microSD
 - [ ] reboot to system
 - [X] ADB
-
-### Medium checks
-
 - [X] update.zip sideload
 - [X] UI colors (red/blue inversions)
 - [X] Screen goes off and on
@@ -28,9 +25,6 @@
 - [X] backup/restore to/from external (USB-OTG) storage
 - [ ] decrypt /data
 - [X] Correct date
-
-### Minor checks
-
 - [ ] MTP export
 - [X] reboot to bootloader
 - [X] reboot to recovery
@@ -38,9 +32,9 @@
 - [X] battery level
 - [X] temperature
 - [ ] input devices via USB (USB-OTG) - keyboard, mouse and disks
-- [ ] USB mass storage export
+- [X] USB mass storage export
 - [X] set brightness
 - [X] vibrate
 - [X] screenshot
 - [X] partition SD card
-- [ ] MTP 
+- [ ] Display Notch
