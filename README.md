@@ -43,4 +43,4 @@
 - [X] vibrate
 - [X] screenshot
 - [X] partition SD card
-- [ ] 
+- [ ] MTP 
