@@ -8,3 +8,39 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+
+### Blocking checks
+
+- [X] Correct screen/recovery size
+- [X] Working Touch, screen
+- [X] Backup to internal/microSD
+- [X] Restore from internal/microSD
+- [ ] reboot to system
+- [X] ADB
+
+### Medium checks
+
+- [X] update.zip sideload
+- [X] UI colors (red/blue inversions)
+- [X] Screen goes off and on
+- [ ] F2FS/EXT4 Support, exFAT/NTFS where supported
+- [ ] all important partitions listed in mount/backup lists
+- [X] backup/restore to/from external (USB-OTG) storage
+- [ ] decrypt /data
+- [X] Correct date
+
+### Minor checks
+
+- [ ] MTP export
+- [X] reboot to bootloader
+- [X] reboot to recovery
+- [X] poweroff
+- [X] battery level
+- [X] temperature
+- [ ] input devices via USB (USB-OTG) - keyboard, mouse and disks
+- [ ] USB mass storage export
+- [X] set brightness
+- [X] vibrate
+- [X] screenshot
+- [X] partition SD card
+- [ ] 
