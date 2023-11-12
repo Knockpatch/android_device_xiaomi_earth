@@ -6,9 +6,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_earth.mk
-
-COMMON_LUNCH_CHOICES := \
-    omni_earth-user \
-    omni_earth-userdebug \
-    omni_earth-eng
+    $(LOCAL_DIR)/twrp_earth.mk
